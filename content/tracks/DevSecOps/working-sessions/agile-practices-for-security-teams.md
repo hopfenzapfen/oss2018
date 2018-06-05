@@ -12,6 +12,7 @@ status       : done
 organizers   : Ante Gulam
 track        : DevSecOps
 participants :
+    - Arne Zismer
 description  : Agile Practices for Security Teams
 ---
 
